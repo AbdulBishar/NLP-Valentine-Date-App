@@ -2,7 +2,7 @@
 
 https://dataminingapps.shinyapps.io/NLPLove/
 
-About the app
+About the app:
 This Shiny App focuses on solving the following problem:
 
 What words can be used in order to determine if someone is single or taken?
